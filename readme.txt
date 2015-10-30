@@ -4,4 +4,4 @@ changement
 
 commit venat de la branche evolution
 
-creer conflit master
+creer conflit
